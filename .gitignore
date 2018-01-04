@@ -1,0 +1,4 @@
+src/main/scala/com/tastemakersafrica/payments/common/
+src/main/scala/com/tastemakersafrica/payments/exceptions/
+src/main/scala/com/tastemakersafrica/payments/utils/
+target/test-classes/
